@@ -64,3 +64,6 @@ print (f'{"Name":20}{"Score":20}{"Percentage":20}{"Grade"}')
 for i in range (4):
   print (f'{names[i]:20}{scores[i]:<20}{percentages[i]:<20}{grades[i]}')
 
+print("a")
+
+
